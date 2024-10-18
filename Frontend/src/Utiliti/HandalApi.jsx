@@ -1,5 +1,5 @@
 import axios from 'axios'
-const url = "http://localhost:5000"
+const url = "https://fullstack-todo-list-application-vm0u.onrender.com"
 const getData = (setTodo) => {
     axios.get(url)
         .then((res) => {
