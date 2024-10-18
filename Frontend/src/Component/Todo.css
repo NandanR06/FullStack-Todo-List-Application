@@ -1,0 +1,24 @@
+.todo {
+    position: relative;
+    margin-top: 1rem;
+    background-color:#AB886D;
+    color:#423227;
+    padding: 1.5rem 3rem;
+    border-radius: 5px;
+    box-shadow: 6px 6px 5px 1px;
+    font-size: large;
+}
+
+.icons {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+    display: flex;
+    gap: 0.5rem;
+
+}
+.icon{
+    cursor: pointer;
+    font-size: 20px;
+}
