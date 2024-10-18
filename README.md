@@ -2,7 +2,7 @@
 
 This is a simple full-stack Todo App built using the MERN stack (MongoDB, Express, React, Node.js). The application allows users to manage a list of tasks, including adding, editing, deleting.
 
-![Todo App Screenshot](../assets/interface.png) 
+![Todo App Screenshot](./interface.png) 
 
 
 ## Features
