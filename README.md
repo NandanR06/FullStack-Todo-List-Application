@@ -39,7 +39,5 @@ Make sure you have the following installed on your system:
 - [MongoDB](https://www.mongodb.com/try/download/community) (MongoDB server or use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas))
 
 ### Deployment Link
-
-
    ```bash
    https://frontend-todo-list-application.onrender.com/
